@@ -305,15 +305,16 @@ h1 span{
 
 .menu-content ul{
 
-  width:700px;
-  left:50%;
-  float:right;
-  text-align:right;
+  width:600px;
+  /* left:50%; */
   list-style:none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 .menu-content li{
-   display:inline-block;
+   /* display:inline-block; */
    position:relative;
 }
 
