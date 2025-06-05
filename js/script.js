@@ -21,7 +21,7 @@ jQuery(document).ready(function($){
     
   // Stick menu
   $(".menu").sticky({topSpacing:0});
-
+  $(".menu-media").sticky({topSpacing:0});
 
 
 
