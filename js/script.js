@@ -16,11 +16,12 @@ jQuery(document).ready(function($){
   
   
   // niceScroll
-  $("html").niceScroll();
+  // $("html").niceScroll();
     
     
   // Stick menu
   $(".menu").sticky({topSpacing:0});
+  $(".menu-media").sticky({topSpacing:0}); // Added line
 
 
 
