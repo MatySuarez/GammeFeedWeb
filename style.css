@@ -207,7 +207,7 @@ h1 span{
 /* Menu */
 
 .menu{
-  position:relative;
+  position:sticky;
   width:100%;
   height:90px;
   background:#2f363e;
